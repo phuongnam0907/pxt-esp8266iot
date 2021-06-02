@@ -104,7 +104,7 @@ namespace ESP8266_IoT {
     /**
     * Connect to ThingSpeak
     */
-    //% block="connect thingspeak"
+    //% block="1. Kết Nối ThingSpeak"
     //% write_api_key.defl=your_write_api_key
     //% subcategory="ThingSpeak" weight=90
     export function connectThingSpeak() {
